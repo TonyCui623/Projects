@@ -45,3 +45,4 @@ while True:
                 motor_3.forward(dc)
                 motor_4.forward(dc)
                 sleep(0.1)
+#print("%s is alive!"%socket.gethostname())
